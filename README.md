@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=deff1c&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=deff1c&height=120&section=header&t"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=09e6ee&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bruno+Cantarelli;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!)](https://git.io/typing-svg)
 
@@ -10,19 +10,18 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoCantarelli&show_icons=true&count_private=true&hide_border=true&title_color=09e6ee&icon_color=ff91a4&text_color=09e6ee&bg_color=0d1117" alt="Bruno Cantarelli github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoCantarelli&show_icons=true&count_private=true&hide_border=true&title_color=09e6ee&icon_color=deff1c&text_color=09e6ee&bg_color=0d1117" alt="Bruno Cantarelli github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCantarelli&layout=compact&hide_border=true&title_color=09e6ee&text_color=09e6ee&bg_color=0d1117" />
 </div>
 
 
 ## I already have some knowledge:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,python,linux,flutter,vscode)](https://skillicons.dev)
 
 ## I am learning:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="40" height="40"/>
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,angular,nodejs,git,figma)](https://skillicons.dev)
 
 ## Contact:
 
