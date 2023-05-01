@@ -21,7 +21,7 @@
 
 ## I am learning:
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,angular,nodejs,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,angular,nodejs,flutter,dart,git,figma)](https://skillicons.dev)
 
 ## Contact:
 
