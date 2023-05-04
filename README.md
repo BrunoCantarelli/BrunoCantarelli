@@ -17,11 +17,11 @@
 
 ## I already have some knowledge:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,python,linux,flutter,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,linux,vscode)](https://skillicons.dev)
 
 ## I am learning:
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,angular,nodejs,flutter,dart,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,,git,react,reactnative)](https://skillicons.dev)
 
 ## Contact:
 
