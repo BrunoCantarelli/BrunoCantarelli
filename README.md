@@ -21,7 +21,7 @@
 
 ## I am learning:
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,,git,react,vue,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,git,react,vue,sql)](https://skillicons.dev)
 
 ## Contact:
 
