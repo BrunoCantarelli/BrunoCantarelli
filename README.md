@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=09e6ee&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bruno+Cantarelli;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!)](https://git.io/typing-svg)
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BrunoCantarelli&bg_color=0d1117&color=deff1c&line=09e6ee&point=deff1c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BrunoCantarelli&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -17,11 +14,11 @@
 
 ## I already have some knowledge:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,linux,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,linux,vscode,tailwind,vue)](https://skillicons.dev)
 
 ## I am learning:
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,git,react,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,git)](https://skillicons.dev)
 
 ## Contact:
 
