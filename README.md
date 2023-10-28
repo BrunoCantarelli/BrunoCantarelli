@@ -18,7 +18,7 @@
 
 ## I am learning:
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,reactjs,nodejs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nodejs,git)](https://skillicons.dev)
 
 ## Contact:
 
