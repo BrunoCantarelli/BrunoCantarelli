@@ -14,11 +14,11 @@
 
 ## I already have some knowledge:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,linux,vscode,tailwind,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,linux,vscode)](https://skillicons.dev)
 
 ## I am learning:
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,nextjs,nodejs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,reactjs,nodejs,git)](https://skillicons.dev)
 
 ## Contact:
 
